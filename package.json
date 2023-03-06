@@ -1,0 +1,22 @@
+{
+  "name": "multer-to-supabase",
+  "version": "1.0.0",
+  "description": "Upload your files to supabase storage with ease",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "multer",
+    "file",
+    "upload",
+    "supabase",
+    "supabase-storage",
+    "node-file-upload"
+  ],
+  "author": "rizwan hamisi || https://github.com/hamisirizwan",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/storage-js": "^2.3.1"
+  }
+}
